@@ -13,7 +13,7 @@ A aplicação permite realizar operações de **CRUD** em produtos e categorias,
 - Spring Data JPA
 - Maven
 - Lombok
-- H2 / MySQL
+- MySQL
 - REST API
 - Git e GitHub
 
